@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GalleryUploader.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="XmlFileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pictureList.xml</Value>
+    </Setting>
+    <Setting Name="ThumbsDirectoryName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">thumbs</Value>
+    </Setting>
+    <Setting Name="PicturesDirectoryName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">fotos</Value>
+    </Setting>
+    <Setting Name="XmlDirectoryName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">xml</Value>
+    </Setting>
+    <Setting Name="FtpUserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">fotogiesels.be</Value>
+    </Setting>
+    <Setting Name="FtpPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">GIE6651</Value>
+    </Setting>
+    <Setting Name="FtpUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ftp://fotogiesels.be</Value>
+    </Setting>
+    <Setting Name="IntroPictureGalleryName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">intro</Value>
+    </Setting>
+    <Setting Name="IntroPictureFileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">introPic.jpg</Value>
+    </Setting>
+    <Setting Name="WebsiteSubfolderName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.</Value>
+    </Setting>
+    <Setting Name="DefaultStartupDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">H:\Website</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
